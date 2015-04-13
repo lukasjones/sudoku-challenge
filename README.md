@@ -8,9 +8,9 @@ A ruby program that solves simple sudoku games
 
 in terminal(run these commands):
 
-  -git clone https://github.com/lukasjones/sudoku-challenge.git
-  -cd sudoku-challenge/source
-  -ruby runner.rb
+-git clone https://github.com/lukasjones/sudoku-challenge.git
+-cd sudoku-challenge/source
+-ruby runner.rb
   
   
   
